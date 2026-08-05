@@ -57,10 +57,9 @@ Passionate about turning data into meaningful insights through analytics, visual
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rahulgandhi1907-boop&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=rahulgandhi1907-boop&theme=tokyonight&hide_border=true"/>
 </p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
