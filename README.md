@@ -54,11 +54,13 @@ Passionate about turning data into meaningful insights through analytics, visual
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulgandhi1907-boop&layout=compact&theme=tokyonight"/>
 
 </p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rahulgandhi1907-boop&theme=tokyonight&hide_border=true"/>
 </p>
+-->
 
 ## 🏆 GitHub Trophies
 
