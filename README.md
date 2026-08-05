@@ -49,9 +49,9 @@ Passionate about turning data into meaningful insights through analytics, visual
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulgandhi1907-boop&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulgandhi1907-boop&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgandhi1907-boop&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulgandhi1907-boop&layout=compact&theme=tokyonight"/>
 
 </p>
 ## 🔥 GitHub Streak
