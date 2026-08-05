@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Gandhi</h1>
 
+![](https://komarev.com/ghpvc/?username=rahulgandhi1907-boop&color=blue)
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Python+Developer;SQL+Enthusiast;Power+BI+Learner;Always+Learning+New+Skills"/>
 </p>
@@ -16,13 +18,17 @@ Passionate about turning data into meaningful insights through analytics, visual
 
 ## 🚀 About Me
 
-- 🎓 Electronics & Communication Engineering Graduate (2025)
-- 📊 Aspiring Data Analyst
-- 🌱 Currently learning Python, SQL, Power BI, and Data Analytics
-- 💡 Interested in Data Analysis, Business Intelligence, and Data Visualization
-- 📍 Chennai, India
+🎓 Electronics & Communication Engineering Graduate (2025)
 
+📊 Aspiring Data Analyst passionate about Python, SQL, Power BI, and business analytics.
+
+🚀 Currently building real-world data analytics projects using Python, SQL, and Power BI.
+
+🌱 Learning Oracle EPM and continuously improving my analytical skills.
+
+📍 Chennai, India
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -111,10 +117,17 @@ Passionate about turning data into meaningful insights through analytics, visual
 🔗 https://github.com/rahulgandhi1907-boop/Superstore-Sales-Analysis
 
 ---
+## 🎯 Current Focus
+
+- Building Data Analytics Portfolio Projects
+- Learning Advanced SQL
+- Improving Python for Data Analysis
+- Preparing for Data Analyst Interviews
 
 
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/rahulgandhi1907-boop
-- Email: rahulgandhi1907@gmail.com
-- LinkedIn: *(Coming Soon)*
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulgandhi1907@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
