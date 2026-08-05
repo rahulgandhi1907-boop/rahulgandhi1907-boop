@@ -51,24 +51,11 @@ Passionate about turning data into meaningful insights through analytics, visual
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulgandhi1907-boop&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulgandhi1907-boop&layout=compact&theme=tokyonight"/>
+   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulgandhi1907-boop&layout=compact&theme=tokyonight"/>
 
 </p>
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulgandhi1907-boop&theme=tokyonight&hide_border=true"/>
-</p>
--->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulgandhi1907-boop&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
 ## 📈 Contribution Graph
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulgandhi1907-boop&theme=tokyo-night)](https://github.com/rahulgandhi1907-boop)
